@@ -1,0 +1,21 @@
+h1 {
+    color: pink;
+}
+li {
+	color: purple;
+}
+ul {
+	color: blue;
+}
+html { 
+  font-size: 150%; /* font-size 1em = 10px on default browser settings */ 
+} 
+h4 { 
+	color: green; 
+}
+html{
+	background-color:lightblue;
+}
+img{
+	width:250px;
+}
